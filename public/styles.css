@@ -1,0 +1,67 @@
+body {
+    margin-top: 0px;
+    background-color: #f76c6c;
+}
+
+.navbar-inverse {
+  padding-right: 30px;
+  background-color: #a8d0e6;
+  border: none;
+}
+
+.glyphicon {
+    margin-right: 6px;
+}
+
+.text-center {
+  margin-top: 100px;
+  background-color: #f8e9a1;
+}
+
+.jumbotron {
+  margin-left: 300px;
+  margin-right: 300px;
+  margin-bottom: 200px;
+  margin-top: 30px;
+}
+
+.button1{
+  background-color: #a8d0e6;
+  margin-top: 18px;
+  border-radius: 15px;
+  padding: 0px 32px;
+}
+
+#special{
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-bottom: 100px;
+  margin-top: 100px;
+}
+
+#special1 {
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-bottom: 100px;
+  margin-top: 200px;
+}
+
+.footer {
+  position: absolute;
+  color: #feffff;
+  right: 50px;
+  bottom: 50px;
+  left: 100px;
+  padding: 1rem;
+  text-align: center;
+}
+
+.footer1{
+  position: absolute;
+  color: #feffff;
+  right: 50px;
+  bottom: 0px;
+  left: 100px;
+  padding: 1rem;
+  text-align: center;
+}
